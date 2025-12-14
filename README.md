@@ -117,5 +117,5 @@ This project is for **educational purposes**.
 
 **Cavid Balakisiyev**
 GitHub: [https://github.com/caviding](https://github.com/caviding)
-LinkedIn: [https://www.linkedin.com/in/cavid-balakisiyev/](https://www.linkedin.com/in/cavid-balakisiyev/)
+LinkedIn: [https://www.linkedin.com/in/cavid-balakisiyev/](https://www.linkedin.com/in/cavid-balakişiyev-9bb020331/)
 Instagram: [https://www.instagram.com/caviding/](https://www.instagram.com/caviding/)
