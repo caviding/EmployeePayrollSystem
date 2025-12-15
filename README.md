@@ -113,7 +113,7 @@ This project is for **educational purposes**.
 
 ---
 
-### 👨‍💻 Author
+### 👨‍💻 Authors
 
 **Cavid Balakisiyev**
 GitHub: [https://github.com/caviding](https://github.com/caviding)
