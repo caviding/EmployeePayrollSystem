@@ -119,3 +119,8 @@ This project is for **educational purposes**.
 GitHub: [https://github.com/caviding](https://github.com/caviding)
 LinkedIn: [https://www.linkedin.com/in/cavid-balakisiyev/](https://www.linkedin.com/in/cavid-balakişiyev-9bb020331/)
 Instagram: [https://www.instagram.com/caviding/](https://www.instagram.com/caviding/)
+
+**Senan Nesrullayev**
+GitHub: [https://github.com/Sanaanw](https://github.com/Sanaanw)
+LinkedIn: [https://www.linkedin.com/in/senan-nasrullayev/](https://www.linkedin.com/in/sanan-nasrullayev-6884b9300/)
+Instagram: [https://www.instagram.com/senaanw/](https://www.instagram.com/senaanw/)
